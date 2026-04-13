@@ -148,7 +148,7 @@ All levels may include a vertical wall obstacle with a narrow opening.
 | Level 1 — Static         | 11   |
 | Level 2 — Blinking       | 24   |
 | Level 3 — Moving+Blinking| 17   |
-| **Test Phase (overall)** | **23** |
+| **Test Phase (overall)** | **88** |
 
 **Username:** `k_230553`
 
